@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on projects with Java and C# .Net<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with grow professionally<br>🌱 I’m currently learning AWS<br>💬 Ask me about anything<br>⚡ Fun fact there are around 700 separate programming languajes
+🔭 I’m currently working on projects with Java, C# .Net and Delphi/Pascal<br>👯 I’m looking to collaborate on any project<br>🤝 I’m looking for help with grow professionally<br>🌱 I’m currently learning AWS<br>💬 Ask me about anything<br>⚡ Fun fact there are around 700 separate programming languajes
 
 
 ## 🌐 Socials:
