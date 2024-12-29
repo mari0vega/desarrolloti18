@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Actualmente, estoy trabajando en proyectos con C# .NET y Angular<br>👯 Busco colaborar en proyectos interesantes y desafiantes.<br>🤝 Me gustaría recibir apoyo para crecer profesionalmente y aprender nuevas habilidades.<br>🌱 Estoy en proceso de aprender más sobre AWS para mejorar mis habilidades en la nube.<br>💬 No dudes en preguntarme sobre cualquier cosa relacionada con tecnología.<br>⚡ Dato curioso: Hay alrededor de 700 lenguajes de programación diferentes.
+🔭 Actualmente, estoy trabajando en proyectos con C# .NET y Angular<br>👯 Busco colaborar en proyectos interesantes y desafiantes.<br>🌱 Estoy en proceso de aprender más sobre AWS para mejorar mis habilidades en la nube.<br>💬 No dudes en preguntarme sobre cualquier cosa relacionada con tecnología.<br>⚡ Dato curioso: Hay alrededor de 700 lenguajes de programación diferentes.
 
 
 # 💻 Tech Stack:
