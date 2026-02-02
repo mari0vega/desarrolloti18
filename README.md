@@ -1,6 +1,6 @@
 # 👋 Hola, soy Mario Vega  
 
-💻 **Senior Fullstack Software Engineer** especializado en **.NET C#** con más de X años de experiencia diseñando, desarrollando y optimizando soluciones tecnológicas robustas.  
+💻 **Senior Fullstack Software Engineer** especializado en **.NET C#** con más de 5 años de experiencia diseñando, desarrollando y optimizando soluciones tecnológicas robustas.  
 🚀 Apasionado por la **arquitectura de software, la calidad del código y las buenas prácticas**.  
 ☁️ Con experiencia en entornos **on-premise y cloud (Azure, AWS)**, así como en procesos de integración y despliegue continuo.  
 
